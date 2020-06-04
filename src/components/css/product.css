@@ -1,0 +1,109 @@
+/* Hero */
+
+.contentInfo {
+  background: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.5)),
+    url("https://shotkit.com/wp-content/uploads/2019/01/fuji-camera-guide-shotkit.jpg")
+      no-repeat center center/cover;
+  height: 520px;
+}
+.contentInfo .Header {
+  text-align: center;
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.Header h1 {
+  font-size: 80px;
+}
+
+.Header .title {
+  color: lightpink;
+  font-family: cursive;
+  font-size: 150px;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0, 0.5);
+}
+
+/* Filter */
+.form-container {
+  margin: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 20px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+}
+.form-container #filterSelect {
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: 2px solid #2f2f2f;
+  border-top: 2px solid #2f2f2f;
+}
+.form-container #priceSelect {
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: 2px solid #2f2f2f;
+  border-top: 2px solid #2f2f2f;
+}
+
+/* Grid container */
+
+#container > div {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 15px;
+  padding: 32px 70px;
+}
+
+.product {
+  border: 1px solid #aaa;
+  box-shadow: 1px 1px 3px rgba(243, 192, 200, 0.74);
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.product-image {
+  width: 180px;
+  height: auto;
+  display: block;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.product,
+.product-description {
+  padding: 20px;
+}
+
+/*Mobile Part 768 */
+@media screen and (width: 768px) {
+  .contentInfo .Header {
+    top: 30%;
+  }
+  #container > div {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+}
+
+/*Mobile Part 414 */
+@media screen and (width: 414px) {
+  .contentInfo .Header {
+    top: 40%;
+  }
+  .Header h1 {
+    font-size: 50px;
+  }
+  .Header .title {
+    font-size: 80px;
+  }
+  #container > div {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 0px 10px;
+  }
+}

@@ -1,0 +1,113 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "img": "./img/products/product-canon-white.jpg",
+            "title": "Canon - EOS M50 Mirrorless Camera",
+            "description": "Explore the capabilities for high-quality image captures with this Canon EOS digital camera kit. High-resolution 4K UHD records and delivers lifelike video for your vlog, while the 24.1MP CMOS sensor grabs even high-action stills with clarity. ",
+            "price": "$579.99",
+            "type": "Most Popular",
+            "cost": "medium"
+        },
+        {
+            "id": 2,
+            "img": "./img/products/product-canon-black.jpg",
+            "title": "Canon PowerShot SX420 Digital Camera",
+            "description": "Megapixel sensor with DIGIC 4+ Image Processor helps deliver stunning image quality and approx number of shots recordable to 16 GB memory card 3.0-inch LCD with a wide viewing angle allows clear display as well as easy operation and sharing.",
+            "price": "$999.99",
+            "type": "Best Selling",
+            "cost": "high"
+        },
+        {
+            "id": 3,
+            "img": "./img/products/product-sonny-with-lens.jpg",
+            "title": "Sony - Alpha a6000 Mirrorless Camera ",
+            "description": "Sony Alpha a6000 Mirrorless Camera Two Lens Kit with 16-50mm and 55-210mm Lenses: With its 24.3-megapixel Exmor CMOS sensor and interchangeable lenses, this mirrorless camera allows you to capture sharp, realistic pictures for yourself or your clients.",
+            "price": "$649.99",
+            "type": "Most Popular",
+            "cost": "medium"
+        },
+        {
+            "id": 4,
+            "img": "./img/products/product-sony-alpha.jpg",
+            "title": "Sony - Alpha 6600 Mirrorless 4K Video Camera ",
+            "description": "Preserve cherished moments in fabulously detailed photos and video with this Sony Alpha 6600 mirrorless digital camera kit. The 24.2MP APS-C Exmor CMOS sensor, 4D FOCUS system and Real-time Eye AF deliver stunning dynamic range, smooth image quality and incredible color. ",
+            "price": "$649.99",
+            "type": "Best Selling",
+            "cost": "medium"
+        },
+        {
+            "id": 5,
+            "img": "./img/products/product-canon-M6.jpg",
+            "title": "Canon EOS M6 Mark II Mirrorless Digital Compact Camera",
+            "description": "The EOS M6 Mark II camera blends high-quality optics into a compact, mirrorless design that’s perfect for your everyday photography adventures, boasting an enhanced 32.5 Megapixel CMOS sensor. DIGIC 8 image processor and ISO range of 100-25600,The EOS M6 Mark. ",
+            "price": "$840.99",
+            "type": "Best Selling",
+            "cost": "high"
+        }, 
+        {
+            "id": 6,
+            "img": "./img/products/product-lumix-black.jpg",
+            "title": "LUMIX G7 Mirrorless 4K Photo Digital Camera",
+            "description": "Panasonic LUMIX G7 Mirrorless 4K Photo Digital Camera Body with 14-42mm f3.5-5.6 II Lens: Shooting pictures on vacation, creating portraits and capturing special moments is easy thanks to a 16.0-megapixel Live MOS sensor and the included 14-42mm lens with optical image stabilization.",
+            "price": "$449.99",
+            "type": "Most Popular",
+            "cost": "low"
+        },
+        {
+            "id": 7,
+            "img": "./img/products/product-nikon-pixels.jpg",
+            "title": "COOLPIX P900 16.0-Megapixel Camera",
+            "description": "This Nikon Coolpix P900 digital camera's built-in Wi-Fi makes it easy to share stored photos and high-definition video footage with your friends and family, the 16.0-megapixel CMOS sensor and optical image.",
+            "price": "$599.90",
+            "type": "Best Selling",
+            "cost": "medium"
+        },
+        {
+            "id": 8,
+            "img": "./img/products/product-fujifilm-black.jpg",
+            "title": "Fujifilm X-T3 Mirrorless Digital Camera",
+            "description": "The X-T3 is a high performance premium camera that will become an inseparable partner in your artistic journey. Everything about this camera has been designed to completely satisfy your photography and videography needs in a robust magnesium alloy body that is ready for the toughest of conditions.",
+            "price": "$699.90",
+            "type": "Most Popular",
+            "cost": "medium"
+        },
+        {
+            "id": 9,
+            "img": "./img/products/product-fujinon-pinck.jpg",
+            "title": "Fujifilm X-A3 Mirrorless Camera",
+            "description": "24.2 megapixel image sensor Enhanced Autofocus settings Five mechanisms for facilitating “self-portraits”: rear LCD, ergonomic grip, vertical command dial, Eye Detection AF, and Portrait Enhancer mode, Wireless communications functionality to enable remote shooting from smartphones and tablet devices.",
+            "price": "$300.80",
+            "type": "Most Popular",
+            "cost": "low"
+        },
+        {
+            "id": 10,
+            "img": "./img/products/product-nikon-expensive.jpg",
+            "title": "Z 50 DX-format Mirrorless Camera",
+            "description": "Using the widest lens mount of any comparable camera system, the Z 50 captures more light, meaning more of everything good—sharpness, contrast, focus speed, low light performance and image quality",
+            "price": "$1,100",
+            "type": "Best Selling",
+            "cost": "high"
+        },
+        {
+            "id": 11,
+            "img": "./img/products/product-nikon-wide.jpg",
+            "title": "COOLPIX B500 16.0-Megapixel Camera",
+            "description": "Share and transfer images easily with this Nikon Coolpix camera, equipped with Bluetooth, Wi-Fi and NFC technology. The high-definition tilting LCD screen lets you take pictures in unique angles, review and edit images and navigate around the menu.",
+            "price": "$259.99",
+            "type": "Most Popular",
+            "cost": "low"
+        },
+        {
+            "id": 12,
+            "img": "./img/products/product-olympus-black.jpg",
+            "title": "Olympus OM-D E-M5 Mark III Silver Body",
+            "description": "Portable, weather sealed body with 14-150mm Weather sealed lens and 121-Point all-cross-type on-chip Phase detection AF Compact, In-body 5-axis image stabilization (up to approx. 5. 5 EV steps of compensation)  50MP tripod High-Res shot.",
+            "price": "$300.98",
+            "type": "Best Selling",
+            "cost": "low"
+        }
+
+    ]
+}
