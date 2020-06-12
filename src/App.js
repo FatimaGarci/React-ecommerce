@@ -12,6 +12,7 @@ function App() {
   return (
     <Router>
       <div>
+        
         <header className="navbar">
           <nav>
             <img className="logo" src="../img/Rg.png" alt="logo" />
