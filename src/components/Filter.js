@@ -1,4 +1,4 @@
-import React from "react";
+import React from "./node_modules/react";
 import items from "./product.json";
 import Products from "./Products";
 import './css/product.css';

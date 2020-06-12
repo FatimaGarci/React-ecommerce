@@ -1,9 +1,9 @@
 import React from "react";
-import Home from "./components/Home";
-import Contact from "./components/Contact";
-import Products from "./components/Products";
-import Footer from "./components/Footer";
-import Filter from "./components/Filter";
+import Home from "./Components/Home";
+import Contact from "./Components/Contact";
+import Products from "./Components/Products";
+import Footer from "./Components/Footer";
+import Filter from "./Components/Filter";
 import "./App.css";
 
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <div>
-        
+
         <header className="navbar">
           <nav>
             <img className="logo" src="../img/Rg.png" alt="logo" />

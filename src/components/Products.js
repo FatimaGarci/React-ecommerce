@@ -1,4 +1,4 @@
-import React from 'react';
+import React from './node_modules/react';
 // import './css/product.css';
 // import Filters from './Filter';
 //const items = require('./product.json');

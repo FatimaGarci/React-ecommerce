@@ -1,4 +1,4 @@
-import React from 'react';
+import React from './node_modules/react';
 import './css/home.css';
 
 export default function Home() {
